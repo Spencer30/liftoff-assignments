@@ -11,20 +11,20 @@ Bowling can be a hard game and takes a lot of practice to get to a consistent le
 
 Bowling Buddy is a web application that helps bowlers from any skill level track their bowling games and stats. Using data, Bowling Buddy can offer users a way to see where they are struggling and where they are acceling. Bowlers will have a better idea where to focus their efforts on in practice. 
 ### Features
-1. Users will be able to register for an account and be able to log in and out of the account.
-2. Users will be able to enter their pins knocked down when going bowling. Bowling Buddy will show their scores and marks.
-3. Users will be able to enter the ball they used during the game.
-4. Users will be able to enter the alley they bowled at.
-5. Users will be able to enter the type of bowling they doing. (Open Bowling vs League vs Tournament)
-6. Users will be able to see a list of their bowling games and be able to delete any of their previous games.
-7. Users will have a settings page where they can manage their balls, alleys, types of play. Users should be able to add, edit and delete items.
-8. Users will be able to see their stats for all the games they bowled. This includes avg, high game, strike and spare percentage, split conversions and open frames. 
+1. Users can register for an account and be able to log in and out of the account.
+2. Users can start a new game and enter their pins knocked down when bowling. Bowling Buddy will show their scores and marks.
+3. Users can view a tutorial modal on how to use the app. 
+4. Users can enter the ball they used during the game.
+5. Users can enter the alley they bowled at.
+6. Users can enter the type of bowling they doing. (Open Bowling vs League vs Tournament)
+7. Users can see a list of their bowling games and be able to delete any of their previous games.
+8. Users have a settings page where they can manage their balls, alleys, types of play. Users can add, edit and delete items.
+9. Users can see their stats for all the games they bowled. This includes avg, high game, strike and spare percentage, split conversions and open frames. 
 ### Technologies
-Frontend is built with React
-Backend is built with Node js
-Database is MySQL
-
-Styling - own css, bootstrap and material ui.
+1. Frontend is built with React
+2. Backend is built with Node js
+3. Database being used is MySQL
+4. Styling - own css, bootstrap and material ui / Built mobile first
 ### What I'll Have to Learn
 Had to learn React to do the frontend of the project. Getting over the initial learning curve with React was tough but once you get the fundamentals down, it's truly fun to work with. I've built 3 webs app now using React and don't see me switching to any other library or framework anytime soon.
 ### Project Tracker
