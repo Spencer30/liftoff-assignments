@@ -7,4 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+<a href="https://github.com/Spencer30/bowling-buddy">Spencer's Bowling Buddy Repo</a>
+<h6>Things to note: This is a priavte repo. Send me your github username so I can give us access</h6>
